@@ -1,2 +1,2 @@
 # maratona-pelo-rs
-Repositório responsável pelo Hackathon Pelo Rio Grande do Sul
+Repositório responsável pela Maratona Pelo Rio Grande do Sul
