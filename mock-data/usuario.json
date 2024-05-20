@@ -5,7 +5,7 @@
       "nome": "Admin",
       "email": "admin@example.com",
       "senha": "hashed_password_1",
-      "tipo_usuario": [
+      "tipo_usuarios": [
         {
           "id": 1,
           "tipo": "admin"
@@ -15,7 +15,7 @@
       "data_criacao": "2021-06-01T00:00:00Z",
       "data_atualizacao": "2021-06-01T00:00:00Z",
       "data_ultimo_login": "2021-06-01T00:00:00Z",
-      "status": [
+      "status_usuarios": [
         {
           "id": 1,
           "status": "ativo"
@@ -27,7 +27,7 @@
       "nome": "John Doe",
       "email": "johndoe@example.com",
       "senha": "hashed_password_2",
-      "tipo_usuario": [
+      "tipo_usuarios": [
         {
           "id": 2,
           "tipo": "voluntario"
@@ -37,7 +37,7 @@
       "data_criacao": "2022-01-15T00:00:00Z",
       "data_atualizacao": "2022-01-15T00:00:00Z",
       "data_ultimo_login": "2022-01-20T00:00:00Z",
-      "status": [
+      "status_usuarios": [
         {
           "id": 1,
           "status": "ativo"
@@ -59,7 +59,7 @@
       "data_criacao": "2023-03-10T00:00:00Z",
       "data_atualizacao": "2023-03-10T00:00:00Z",
       "data_ultimo_login": "2023-03-12T00:00:00Z",
-      "status": [
+      "status_usuario": [
         {
           "id": 2,
           "status": "inativo"
