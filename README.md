@@ -1,176 +1,81 @@
-# 💡Maratona Pelo Rio Grande do Sul
+# Maratona: Tech Pelo RS
 
-Repositório responsável pela Maratona Pelo Rio Grande do Sul. Aqui você encontrará informações como:
+![Tech Pelo RS](./image/tech-banner.png)
 
-- [💡Maratona Pelo Rio Grande do Sul](#maratona-pelo-rio-grande-do-sul)
-  - [🏃Sobre a Maratona](#sobre-a-maratona)
-  - [❓Como Participar](#como-participar)
-  - [🗓️ Cronograma](#️-cronograma)
-    - [Pré-Lançamento (9 a 17 de Maio)](#pré-lançamento-9-a-17-de-maio)
-    - [Lançamento (18 a 22 de Maio)](#lançamento-18-a-22-de-maio)
-    - [Desafio (23 a 26 de Maio)](#desafio-23-a-26-de-maio)
-    - [Avaliação (27 a 30 de Maio)](#avaliação-27-a-30-de-maio)
-    - [Resultado (31 de Maio)](#resultado-31-de-maio)
-  - [🌍 Desafios](#-desafios)
-    - [🛡️ Gestão de Risco](#️-gestão-de-risco)
-    - [🚨 Gerenciamento de Desastres](#-gerenciamento-de-desastres)
-  - [🏆 Premiação](#-premiação)
-  - [📞 Contato](#-contato)
-  - [🤝 Apoio](#-apoio)
-  - [📄 Licença](#-licença)
-  - [💻 Contribuidores](#-contribuidores)
-  - [🙏 Agradecimentos](#-agradecimentos)
-  - [❓ FAQ](#-faq)
-  - [🔗 Links Úteis](#-links-úteis)
-  - [🌐 Redes Sociais](#-redes-sociais)
-  - [🤝 Parceiros](#-parceiros)
-  - [➡️ Organização](#️-organização)
+## Descrição do Evento
 
+### Unindo Tecnologia e Solidariedade
 
-## 🏃Sobre a Maratona
+A Maratona Tech pelo RS é uma iniciativa colaborativa que tem como objetivo propor soluções tecnológicas para oferecer atendimento e suporte a milhares de pessoas afetadas pelas chuvas e inundações que atingiram o Rio Grande do Sul.
 
-A Maratona Pelo Rio Grande do Sul é um evento online que tem como intuito desenvolver aplicações que possam ajudar toda a população do estado a lidar com o recente desastre climático causado pelas enchentes que atingiram inúmeras cidades. Convidamos desenvolvedores, designers, estudantes e inovadores a se unirem para criar soluções tecnológicas que ajudem as pessoas afetadas.
+A iniciativa será realizada de forma 100% online e se você é uma pessoa Desenvolvedora, Designer, Engenheira, Profissional de UX/UI, Especialista em Negócios ou simplesmente apaixonada por inovação, a maratona é o lugar ideal para unir Tecnologia e Solidariedade.
 
-## ❓Como Participar
+Durante a maratona, as equipes participantes terão a missão de escolher um desafio e criar uma proposta de solução. As equipes terão à disposição recursos técnicos, como créditos em serviços de nuvem, e contarão com o apoio de uma rede de mentores voluntários de organizações parceiras.
 
-Para participar, siga os passos abaixo:
+Os mentores, que são profissionais experientes da área de tecnologia, negócios, design e estratégia, estarão disponíveis para orientar e apoiar as equipes ao longo do processo, ajudando a transformar ideias em protótipos funcionais e soluções viáveis.
 
-1. Forme uma equipe de até 5 profissionais nas áreas de desenvolvimento, business, marketing e UX (não obrigatório).
-2. Inscreva-se na [página de inscrição - link temporário]().
-3. Participe do servidor de **[Discord - colocar o link]()** para conexão entre times e acesso às palestras técnicas.
+As soluções finalistas da Maratona serão doadas ao Governo do Estado do Rio Grande do Sul para implementação e ampla disponibilização à população, podendo ser utilizadas integral ou parcialmente.
 
-## 🗓️ Cronograma
+## Cronograma
 
-### Pré-Lançamento (9 a 17 de Maio)
+### Abertura e Anúncio dos Desafios
 
-- Definição de grupos de trabalho
-- Preparação do regulamento e material de divulgação
-- Parcerias para recursos técnicos
+- **Data**: 23/05/2024 às 19:30hrs.
+- **Descrição**: Abertura oficial da Maratona, apresentação dos desafios, envio do Guia de Participantes e liberação de acesso ao Discord.
 
-### Lançamento (18 a 22 de Maio)
+### Desenvolvimento de Projetos
 
-- Lançamento das inscrições
-- Live Esquenta para o Hackathon (20/05 às 19:30)
-- Criação do servidor de Discord
+- **Data**: 25 e 26 de Maio
+- **Descrição**: Trabalhe com a sua equipe para desenvolver uma solução para um dos desafios propostos.
 
-### Desafio (23 a 26 de Maio)
+### Envio das Soluções
 
-- Live de abertura (23/05 às 19:30)
-- Workshop de Visão Geral das Plataformas (24/05)
-- Desenvolvimento das soluções (25 e 26/05)
+- **Data**: 27/05/2024
+- **Descrição**: Envie a solução da sua equipe até às 18 horas!
 
-### Avaliação (27 a 30 de Maio)
+### Cerimônia de Encerramento
 
-- Envio dos projetos (27/05)
-- Avaliação dos projetos (28 a 30/05)
+- **Data**: 31/05/2024 às 19:30hrs
+- **Descrição**: Pitch das soluções finalistas, avaliação final e anúncio das escolhidas.
 
-### Resultado (31 de Maio)
+## Temas dos Desafios
 
-- Live para apresentação de pitch dos projetos finalistas
-- Anúncio dos vencedores
+1. **Avaliação e Mapeamento de Riscos**: Soluções para identificar áreas e populações em risco, bem como os tipos de desastres que podem ocorrer.
+   
+2. **Previsão, Monitoramento e Emissão de Avisos e Alertas**: Soluções de monitoramento capazes de prever desastres iminentes e emitir avisos e alertas à população.
+   
+3. **Medidas de Preparação para Resposta**: Soluções para facilitar o resgate, primeiros socorros, distribuição de kits de emergência e elaboração de planos de evacuação.
+   
+4. **Assistência Humanitária**: Soluções para viabilizar o fornecimento de alimentos, água, abrigos temporários e cuidados médicos às vítimas, além de prestar atendimento à população que permanece em suas casas, mas enfrenta restrições de acesso a esses recursos.
+   
+5. **Recuperação de Bem-estar Social e Econômico**: Soluções para restaurar e melhorar as condições de vida e economia das comunidades afetadas, incluindo apoio psicológico e reconstrução de laços comunitários.
 
-## 🌍 Desafios
+## Premiações
 
-### 🛡️ Gestão de Risco
+**Em breve!**
 
-**Pré-Desastre**
+## Para mais detalhes e informações sobre a maratona:
 
-- 1.1 Prevenção e Mitigação
+- **[Regulamento](https://bit.ly/regulamento-maratona-tech-rs)**
+- **[Código de Conduta](https://pt-br.confcodeofconduct.com/)**
+- **[Políticas de Privacidade](https://1drv.ms/b/s!AiH9BCIFkmTzlxGlSLzYHtYwrAmT?e=fEqSkg)**
+- **[Termos de Uso](https://1drv.ms/b/s!AiH9BCIFkmTzlytNcZO84__4b4Kp?e=AUrV3B)**
 
-  - **Avaliação e Mapeamento de Riscos:** Realizar estudos para identificar as áreas e populações em risco e os tipos de desastres que podem ocorrer.
-  
-  - **Medidas de Redução de Riscos de Desastres:** Implementar obras de infraestrutura, como barragens e muros de contenção, e políticas públicas que visem diminuir os impactos de possíveis desastres.
-  
-- 1.2. Preparação
-  
-  - **Previsão, Monitoramento e Emissão de Avisos e Alertas:** Desenvolver e manter sistemas de monitoramento que possam prever desastres iminentes e emitir avisos e alertas à população.
-  
-  - **Medidas de Preparação para resposta:** Organizar treinamentos e simulações para os serviços de emergência e a população, além de preparar kits de emergência e planos de evacuação
+**E-mail**: maratonatechpelors@gmail.com
 
+## Quem Faz a Maratona Tech pelo RS Acontecer
 
-### 🚨 Gerenciamento de Desastres
+### Comissão Organizadora
 
-**Durante o Desastre**
-
-- 2.1. Resposta
-  
-  - **Socorro:** Realização de resgate e primeiros socorros às vítimas imediatamente após o desastre.
-  
-  - **Assistência Humanitária:** Fornecimento de alimentos, água, abrigos temporários e cuidados médicos às vítimas.
-
-  - **Restabelecimento dos Serviços Essenciais:** Rápida recuperação de serviços críticos como energia elétrica, água, saneamento e comunicações.
-
-
-**Pós-Desastre**
-
-- 3.1. Recuperação
-
-  - **Obras de Recuperação:** Reconstrução de infraestruturas danificadas e reabilitação de áreas afetadas.
-  
-  - **Recuperação de Bem-estar Social e Econômico:** Implementação de programas para restaurar e melhorar as condições de vida e economia das comunidades afetadas, incluindo apoio psicológico e reconstrução de laços comunitários.
-
-
-## 🏆 Premiação
-
-Os projetos serão avaliados por um grupo de especialistas e os melhores serão premiados. Detalhes sobre as premiações serão anunciados em breve.
-
-## 📞 Contato
-
-Para mais informações, entre em contato através do e-mail: contato@maratonapelors.com
-
-## 🤝 Apoio
-
-A maratona conta com o apoio de várias instituições, incluindo:
-- **[WoMakersCode](https://womakerscode.org/)**
-- **[Soul Code](https://soulcode.com/)**
-- **[AfrOya Tech Hub](https://linktr.ee/afroyatech)**
-- **[Impact Hub](https://impacthub.org.br/)**
+- **[AfrOya](https://afroya.tech/)**
+- **[Basement Developers](https://discord.gg/basementdevs)**
+- **[Impact Hub Porto Alegre](https://www.instagram.com/impacthubpoa/)**
 - **[Ladies in Tech](https://ladiesintech.com.br/)**
-- **[Governo do Estado do RS – Secretaria de Inclusão Digital e Apoio a Políticas de Equidade](https://www.estado.rs.gov.br/secretaria-extraordinaria-de-inclusao-digital-e-apoio-as-politicas-de-equidade)**
-- **[Governo do Estado do RS – Secretaria de Inovação Ciência e Tecnologia](https://www.estado.rs.gov.br/secretaria-de-inovacao-ciencia-e-tecnologia)**
+- **[Soul Code](https://soulcode.com/)**
+- **[WoMakersCode](https://womakerscode.org/)**
 
-## 📄 Licença
+### Apoio
 
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+- **[Secretaria Ext. De Inclusão Digital e Apoio a Políticas de Equidade](https://www.estado.rs.gov.br/secretaria-extraordinaria-de-inclusao-digital-e-apoio-as-politicas-de-equidade)**
+- **[Secretaria de Inovação, Ciência e Tecnologia](https://sict.rs.gov.br/inicial)**
 
-## 💻 Contribuidores
-
-A maratona é realizada por uma equipe de voluntários dedicados. Veja a lista completa de contribuidores no arquivo [CONTRIBUTORS](CONTRIBUTORS.md).
-
-## 🙏 Agradecimentos
-
-Agradecemos a todos os participantes, mentores, e apoiadores que tornaram esta maratona possível.
-
-## ❓ FAQ
-
-Para perguntas frequentes, acesse o [FAQ](FAQ.md).
-
-## 🔗 Links Úteis
-
-- [Página de Inscrição](https://docs.google.com/document/d/1Psznccy8ZZ-uuvqgV8JK16OczhIvO2pyCcUd_jlpi14/edit?usp=sharing)
-- [Landing Page](https://eventos.ifsul.edu.br/maratona-tech-pelo-rs/)
-- [Servidor Discord](#)
-
-## 🌐 Redes Sociais
-
-- [Facebook - à incluir]()
-- [Twitter - à incluir]()
-- [LinkedIn - à incluir]()
-- [Instagram - à incluir]()
-
-## 🤝 Parceiros
-
-Nossos parceiros:
-- Parceiro A
-- Parceiro B
-
-## ➡️ Organização
-
-O evento é organizado por um grupo de trabalho dedicado:
-
-- **Comunicação:** Carmela (SCA), Noemi (WoMakersCode), Paola (SICTI)
-- **Governança:** Cynthia (WoMakersCode), Rafael (SCA)
-- **Jurídico:** Lucas (SCA), Cecília (WoMakersCode)
-- **Infra Tech:** Ana Neri (WoMakersCode), Glaucia (Microsoft), Daniel (Scylla/He4rt Developers), Erick (NodeBR)
-- **Experiência do Participante:** Jessica Félix (Tech Voluntária), George Canfield (IHPOA)
-- **Parcerias:** Fabrício (SCA), Andreza (Afroya), George Canfield (IHPOA)
