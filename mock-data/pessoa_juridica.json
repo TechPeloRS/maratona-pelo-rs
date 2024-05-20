@@ -1,0 +1,22 @@
+{
+  "pessoa_juridica": [
+    {
+      "id": 1,
+      "nome": "Empresa Solidária",
+      "cnpj": "12.345.678/0001-90",
+      "endereco_id": 3,
+      "telefone_id": 7,
+      "email": "contato@empresasolidaria.com",
+      "tipo": "Empresa"
+    },
+    {
+      "id": 2,
+      "nome": "ONG Amigos do Bem",
+      "cnpj": "98.765.432/0001-21",
+      "endereco_id": 4,
+      "telefone_id": 8,
+      "email": "contato@amigosdobem.org",
+      "tipo": "ONG"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "status_usuarios": [
+    {
+      "id": 1,
+      "status": "ativo"
+    },
+    {
+      "id": 2,
+      "status": "inativo"
+    },
+    {
+      "id": 3,
+      "status": "suspenso"
+    }
+  ]
+}

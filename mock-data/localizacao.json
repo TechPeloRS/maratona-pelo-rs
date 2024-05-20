@@ -1,0 +1,14 @@
+{
+  "localizacoes": [
+    {
+      "id": 1,
+      "latitude": -30.0346,
+      "longitude": -51.2177
+    },
+    {
+      "id": 2,
+      "latitude": -29.9128,
+      "longitude": -51.1855
+    }
+  ]
+}

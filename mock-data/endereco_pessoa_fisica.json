@@ -1,0 +1,18 @@
+{
+  "endereco_pessoa_fisica": [
+    {
+      "id": 1,
+      "logradouro": "Rua Principal, 100",
+      "cidade": "Porto Alegre",
+      "estado": "RS",
+      "cep": "90000-000"
+    },
+    {
+      "id": 2,
+      "logradouro": "Avenida Secundária, 200",
+      "cidade": "Canoas",
+      "estado": "RS",
+      "cep": "92000-000"
+    }
+  ]
+}

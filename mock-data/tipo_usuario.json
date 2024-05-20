@@ -1,0 +1,24 @@
+{
+  "tipo_usuario": [
+    {
+      "id": 1,
+      "tipo": "admin",
+      "descricao": "Usuário com acesso completo ao sistema, incluindo gerenciamento de outros usuários e configurações."
+    },
+    {
+      "id": 2,
+      "tipo": "voluntario",
+      "descricao": "Usuário voluntário que pode ajudar no gerenciamento de doações e abrigos."
+    },
+    {
+      "id": 3,
+      "tipo": "ong",
+      "descricao": "Usuário representante de uma ONG que pode ajudar no gerenciamento de doações e abrigos."
+    },
+    {
+      "id": 4,
+      "tipo": "usuario",
+      "descricao": "Usuário comum que pode solicitar doações e abrigo."
+    }
+  ]
+}

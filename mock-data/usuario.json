@@ -1,0 +1,70 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Admin",
+      "email": "admin@example.com",
+      "senha": "hashed_password_1",
+      "tipo_usuario": [
+        {
+          "id": 1,
+          "tipo": "admin"
+        }
+      ],
+      "telefone_id": 1,
+      "data_criacao": "2021-06-01T00:00:00Z",
+      "data_atualizacao": "2021-06-01T00:00:00Z",
+      "data_ultimo_login": "2021-06-01T00:00:00Z",
+      "status": [
+        {
+          "id": 1,
+          "status": "ativo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "John Doe",
+      "email": "johndoe@example.com",
+      "senha": "hashed_password_2",
+      "tipo_usuario": [
+        {
+          "id": 2,
+          "tipo": "voluntario"
+        }
+      ],
+      "telefone_id": 2,
+      "data_criacao": "2022-01-15T00:00:00Z",
+      "data_atualizacao": "2022-01-15T00:00:00Z",
+      "data_ultimo_login": "2022-01-20T00:00:00Z",
+      "status": [
+        {
+          "id": 1,
+          "status": "ativo"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Jane Smith",
+      "email": "janesmith@example.com",
+      "senha": "hashed_password_3",
+      "tipo_usuario": [
+        {
+          "id": 2,
+          "tipo": "voluntario"
+        }
+      ],
+      "telefone_id": 3,
+      "data_criacao": "2023-03-10T00:00:00Z",
+      "data_atualizacao": "2023-03-10T00:00:00Z",
+      "data_ultimo_login": "2023-03-12T00:00:00Z",
+      "status": [
+        {
+          "id": 2,
+          "status": "inativo"
+        }
+      ]
+    }
+  ]
+}

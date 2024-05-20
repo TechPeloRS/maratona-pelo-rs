@@ -1,0 +1,36 @@
+{
+  "doacao_animal": [
+    {
+      "id": 1,
+      "tipo": "ração",
+      "descricao": "Ração para cães e gatos",
+      "quantidade": "50 kg",
+      "abrigo_animal_id": 1,
+      "localizacao_id": 1
+    },
+    {
+      "id": 2,
+      "tipo": "medicamentos",
+      "descricao": "Remédios para animais",
+      "quantidade": "30 unidades",
+      "abrigo_id": 1,
+      "localizacao_id": 1
+    },
+    {
+      "id": 3,
+      "tipo": "acessórios",
+      "descricao": "Coleiras, brinquedos",
+      "quantidade": "20 unidades",
+      "abrigo_id": 2,
+      "localizacao_id": 2
+    },
+    {
+      "id": 4,
+      "tipo": "cobertores",
+      "descricao": "Cobertores para animais",
+      "quantidade": "10 unidades",
+      "abrigo_id": 2,
+      "localizacao_id": 2
+    }
+  ]
+}

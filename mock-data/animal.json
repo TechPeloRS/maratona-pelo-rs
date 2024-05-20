@@ -1,0 +1,20 @@
+{
+  "animal": [
+    {
+      "id": 1,
+      "tipo": "Cão",
+      "nome": "Rex",
+      "idade": 5,
+      "pessoa_id": 1,
+      "identificador": "CX123456"
+    },
+    {
+      "id": 2,
+      "tipo": "Gato",
+      "nome": "Mimi",
+      "idade": 2,
+      "pessoa_id": 3,
+      "identificador": "CX123456"
+    }
+  ]
+}

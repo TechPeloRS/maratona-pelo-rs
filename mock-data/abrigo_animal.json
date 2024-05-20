@@ -1,0 +1,18 @@
+{
+  "abrigos_animais": [
+    {
+      "id": 1,
+      "nome": "Abrigo Central de Animais",
+      "endereco_pessoa_juridica_id": 2,
+      "telefone_pessoa_juridica_id": 2,
+      "localizacao_id": 2
+    },
+    {
+      "id": 2,
+      "nome": "Abrigo Norte de Animais",
+      "endereco_pessoa_juridica_id": 4,
+      "telefone_pessoa_juridica_id": 4,
+      "localizacao_id": 4
+    }
+  ]
+}
