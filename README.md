@@ -2,7 +2,7 @@
 
 ![Tech Pelo RS](./image/tech-banner.png)
 
-## Unindo Tecnologia e Solidariedade
+## 💖 Unindo Tecnologia e Solidariedade
 
 A Maratona Tech pelo RS é uma iniciativa colaborativa que tem como objetivo propor soluções tecnológicas para oferecer atendimento e suporte a milhares de pessoas afetadas pelas chuvas e inundações que atingiram o Rio Grande do Sul.
 
@@ -14,7 +14,7 @@ Os mentores, que são profissionais experientes da área de tecnologia, negócio
 
 As soluções finalistas da Maratona serão doadas ao Governo do Estado do Rio Grande do Sul para implementação e ampla disponibilização à população, podendo ser utilizadas integral ou parcialmente.
 
-## Cronograma
+## 📅 Cronograma
 
 ### Abertura e Anúncio dos Desafios
 
@@ -36,7 +36,9 @@ As soluções finalistas da Maratona serão doadas ao Governo do Estado do Rio G
 - **Data**: 31/05/2024 às 19:30hrs
 - **Descrição**: Pitch das soluções finalistas, avaliação final e anúncio das escolhidas.
 
-## Temas dos Desafios
+## 🎯 Temas dos Desafios
+
+Cada equipe terá que escolher 01 (um) tema para propor uma solução:
 
 1. **Avaliação e Mapeamento de Riscos**: Soluções para identificar áreas e populações em risco, bem como os tipos de desastres que podem ocorrer.
    
@@ -56,7 +58,15 @@ As soluções finalistas da Maratona serão doadas ao Governo do Estado do Rio G
 - **[Termos de Uso](https://1drv.ms/b/s!AiH9BCIFkmTzlytNcZO84__4b4Kp?e=AUrV3B)**
 - **E-mail: maratonatechpelors@gmail.com**
 
-## Modelos Básicos de Dados
+## 🛠️ Recursos de Tecnologia
+
+| Plataforma  | Serviços |
+| ------------- | ------------- |
+| [Azure](https://github.com/TechPeloRS/maratona-pelo-rs/blob/main/resources/google.md) | USD$200 em créditos Azure por 30 dias e 12 meses de serviços gratuitos selecionados (+40 recursos).  |
+| [Google Skills Boost](https://github.com/TechPeloRS/maratona-pelo-rs/blob/main/resources/google.md) | 30 dias de acesso gratuitos aos recursos de nuvem do Google. |
+| [Netlify](https://www.netlify.com/pricing/) | Hospedagem de apps web. |
+
+## 🎲 Modelos Básicos de Dados
 
 Um modelo de dados ("mock de dados" ou simplesmente "mock") é uma simulação ou um conjunto de dados falsos utilizados para testar e desenvolver software. Em outras palavras, é um conjunto de dados sintéticos que imita dados reais, permitindo que desenvolvedores, testadores e equipes de QA possam realizar testes de funcionalidade, integração e desempenho sem a necessidade de acessar dados reais, que podem ser sensíveis ou indisponíveis.
 
