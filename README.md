@@ -62,8 +62,9 @@ Cada equipe terá que escolher 01 (um) tema para propor uma solução:
 
 | Plataforma  | Serviços |
 | ------------- | ------------- |
-| [Azure](https://github.com/TechPeloRS/maratona-pelo-rs/blob/main/resources/google.md) | USD$200 em créditos Azure por 30 dias e 12 meses de serviços gratuitos selecionados (+40 recursos).  |
+| [Azure](https://azure.microsoft.com/pt-br/pricing/offers/ms-azr-0044p) | USD$200 em créditos Azure por 30 dias e 12 meses de serviços gratuitos selecionados (+40 recursos).  |
 | [Google Skills Boost](https://github.com/TechPeloRS/maratona-pelo-rs/blob/main/resources/google.md) | 30 dias de acesso gratuitos aos recursos de nuvem do Google. |
+| [GitHub Codespaces](https://github.com/features/codespaces) | 60 horas gratuitas por mês. |
 | [Netlify](https://www.netlify.com/pricing/) | Hospedagem de apps web. |
 
 ## 🎲 Modelos Básicos de Dados
