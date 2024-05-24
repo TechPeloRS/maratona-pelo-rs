@@ -14,6 +14,10 @@ Os mentores, que são profissionais experientes da área de tecnologia, negócio
 
 As soluções finalistas da Maratona serão doadas ao Governo do Estado do Rio Grande do Sul para implementação e ampla disponibilização à população, podendo ser utilizadas integral ou parcialmente.
 
+## 💬 Discord
+
+Link de acesso: [clique para acessar](https://discord.gg/ZDQwbwDnwh)
+
 ## 📅 Cronograma
 
 ### Abertura e Anúncio dos Desafios
